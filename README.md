@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chathurikashyamali
-- 🌱 I’m currently learning compueter science
+- 🌱 I’m currently learning computer science
 - 📫 How to reach me :chathurikasrajapaksha@gmail.com
 - 🤖 Machine Learning 
 
