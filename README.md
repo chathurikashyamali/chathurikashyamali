@@ -42,7 +42,7 @@ Welcome to my GitHub!
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **🧠 Breast Cancer Prediction Web app** |model to predict whether a breast tumor is benign or malignant based on medical measurements. | Python,Streamlit |
+| **🤖 Breast Cancer Prediction Web app** |model to predict whether a breast tumor is benign or malignant based on medical measurements. | Python,Streamlit |
 | **🧠 Restaurannt ratings predictor** |model to predict restaurant ratings based on various features | Python,Streamlit |
 | **🔍 Blop app** | Next.js, MongoDB, Tailwind CSS |
 | **📊 Spotify clone**  | React.js, Tailwind CSS|
