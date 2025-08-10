@@ -7,7 +7,7 @@ Welcome to my GitHub!
 ## 🧠 About Me
 
 - 🎓 BSc in Computer Science
-- 🧪 Quality Assurance Intern | Love for clean code & automated testing
+- 🧪 Machine learning Enthusiast
 - 📊 Data-obsessed, model-driven, and constantly learning
 - 🤖 Exploring AI, ML, data pipelines, and cloud tools
 - ✨ My mission: use data to solve real-world problems and build better systems
